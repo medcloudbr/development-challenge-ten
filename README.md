@@ -47,7 +47,7 @@ According to the above criteria, we will evaluate your test in order to proceed 
 
 ## Delivery
 
-You MUST clone this repository to your own private repository and push your code to it. 
+You MUST clone this repository to your own private repository and push your code to it. DO NOT FORK THIS REPOSITORY.
 When you finish it, you must send an email to cv@medcloud.com.br with your curriculum and share
 the private repository with github.com/medcloud-engineer.
 
